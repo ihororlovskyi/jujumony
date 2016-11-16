@@ -345,10 +345,10 @@ header a {
 }
 
 .preview-large img{
-    width: 100%;
+    width: auto;
     height: 280px;
-    border-bottom: 3px solid #efefef;
-    border-radius: 5px 5px 0 0;
+    display: block;
+    margin: 0 auto 20px;
 }
 
 .preview-large p{
