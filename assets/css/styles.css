@@ -3,11 +3,12 @@
     padding:0;
 }
 
-body{
+body {
     font: normal 16px Arial, Helvetica, sans-serif;
 }
 
-h1, h3{
+h1,
+h3 {
     font: normal 24px 'Open Sans', Arial, Helvetica, sans-serif;
 }
 
@@ -45,22 +46,22 @@ header a {
 ------------------*/
 
 
-.main-content{
+.main-content {
     box-sizing: border-box;
     text-align: center;
     margin: 125px auto 60px;
     padding: 0 40px;
 }
 
-.main-content h3{
+.main-content h3 {
     font-size: 28px;
     color:  #5a96b9;
     padding-bottom: 20px;
 }
 
-@media (max-width: 600px){
+@media (max-width: 600px) {
 
-    .main-content{
+    .main-content {
         margin: 45px auto;
         padding: 0 25px;
     }
@@ -74,7 +75,7 @@ header a {
 
 /*  Filter Form */
 
-.filters{
+.filters {
     box-sizing: border-box;
     padding: 5px 30px 30px;
     width: 190px;
@@ -89,12 +90,12 @@ header a {
     pointer-events: none;
 }
 
-.filters .filter-criteria{
+.filters .filter-criteria {
     display: block;
     margin: 10px 0 10px;
 }
 
-.filters span{
+.filters span {
     font-size:14px;
     display: block;
     margin-bottom: 12px;
@@ -102,17 +103,17 @@ header a {
     margin-top: 20px;
 }
 
-.filters label{
+.filters label {
     display: block;
     line-height: 1.4;
     font-size: 15px;
 }
 
-.filters label input{
+.filters label input {
     margin-right: 10px;
 }
 
-.filters button{
+.filters button {
     border-radius: 2px;
     background-color:  #4BC34B;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12);
@@ -130,11 +131,11 @@ header a {
 
 /*  Products List   */
 
-.all-products h3{
+.all-products h3 {
     opacity: 0;
 }
 
-.products-list{
+.products-list {
     list-style:none;
     margin-left:225px;
     max-width: 1500px;
@@ -146,13 +147,13 @@ header a {
 
 .all-products.visible .products-list,
 .all-products.visible .filters,
-.all-products.visible h3{
+.all-products.visible h3 {
     opacity: 1;
     transition: 1s;
     pointer-events: auto;
 }
 
-.products-list > li{
+.products-list > li {
     box-sizing:border-box;
     display: inline-block;
     cursor: pointer;
@@ -171,14 +172,14 @@ header a {
     padding: 25px;
 }
 
-.products-list > li.hidden{
+.products-list > li.hidden {
     opacity: 0.2;
     pointer-events: none;
 }
 
 /* The product image */
 
-.products-list .product-photo{
+.products-list .product-photo {
     display: block;
     text-align: center;
     box-shadow : 0 0 20px 8px #f3f3f3 inset;
@@ -191,7 +192,7 @@ header a {
 
 /* The product name */
 
-.products-list h2{
+.products-list h2 {
     display: block;
     font-size: 18px;
     white-space: nowrap;
@@ -201,14 +202,14 @@ header a {
     margin:0;
 }
 
-.products-list h2 a{
+.products-list h2 a {
     text-decoration: none;
     color: #2B2E31;
 }
 
 /* Product description */
 
-.products-list .product-description{
+.products-list .product-description {
     margin-top: 20px;
 
     color: #5d5d5d;
@@ -222,22 +223,22 @@ header a {
     list-style: none;
 }
 
-.products-list .product-description li{
+.products-list .product-description li {
     display: inline-block;
     margin-right: 5px;
 }
 
-.products-list .product-description li:first-child{
+.products-list .product-description li:first-child {
     display: block;
 }
 
-.products-list .product-description li span{
+.products-list .product-description li span {
     font-weight: bold;
 }
 
 /* Price and order button */
 
-.products-list button{
+.products-list button {
     border-radius: 2px;
     background-color:  #87bae1;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12);
@@ -251,7 +252,7 @@ header a {
     height: 32px;
 }
 
-.products-list .product-price{
+.products-list .product-price {
     float: right;
 
     color:  #4e4e4e;
@@ -262,7 +263,7 @@ header a {
     margin: 0;
 }
 
-.products-list .highlight{
+.products-list .highlight {
     position: absolute;
     top:0;
     left:0;
@@ -273,19 +274,19 @@ header a {
     transition: 0.4s;
 }
 
-.products-list > li:hover .highlight{
+.products-list > li:hover .highlight {
     opacity: 1;
 }
 
 /* Making the list responsive */
 
-@media (max-width: 800px){
+@media (max-width: 800px) {
 
-    .products-list .product-photo{
+    .products-list .product-photo {
         width: 225px;
     }
 
-    .products-list .product-description{
+    .products-list .product-description {
         max-width: 225px;
     }
 }
@@ -295,11 +296,11 @@ header a {
     Single Product Page
 ----------------------------*/
 
-.single-product{
+.single-product {
     z-index: 100;
 }
 
-.overlay{
+.overlay {
     height: 20px;
     width: 100%;
     position: fixed;
@@ -310,11 +311,11 @@ header a {
     z-index: 100;
 }
 
-.single-product.visible .overlay{
+.single-product.visible .overlay {
     height: 100%;
 }
 
-.preview-large{
+.preview-large {
     box-sizing: border-box;
     width: 760px;
     height: 550px;
@@ -334,29 +335,31 @@ header a {
 
 }
 
-.single-product.visible .preview-large{
+.single-product.visible .preview-large {
     opacity: 1;
     transition: 1.4s;
     pointer-events: auto;
 }
 
-.preview-large h3{
+.preview-large h3 {
     margin-top: 20px;
 }
 
-.preview-large img{
+.preview-large img {
     width: auto;
-    height: 280px;
+    max-width: 100%;
+    height: auto;
+    max-height: 280px;
     display: block;
     margin: 0 auto 20px;
 }
 
-.preview-large p{
+.preview-large p {
     line-height: 23px;
     padding: 50px 45px;
 }
 
-.close{
+.close {
     position: absolute;
     right: 25px;
     top: 15px;
@@ -371,7 +374,7 @@ header a {
     Error Page
 ----------------------------*/
 
-.error{
+.error {
     opacity: 0;
     transition: 0.6s;
     pointer-events: none;
@@ -381,11 +384,11 @@ header a {
     width: 100%;
 }
 
-.error.visible{
+.error.visible {
     opacity: 1;
 }
 
-.error h3{
+.error h3 {
     font-size: 40px;
 }
 
