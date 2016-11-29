@@ -1,138 +1,138 @@
 [
-  {
-    "id": 1,
-    "name": "Sony Xperia Z3",
-    "price": 899,
-    "specs": {
-      "manufacturer": "Sony",
-      "storage": 16,
-      "os": "Android",
-      "camera": 15
+    {
+        "id": 3,
+        "name": "Маргарита",
+        "price": 1200,
+        "specs": {
+            "manufacturer": "Woman",
+            "storage": 32,
+            "os": "Android",
+            "camera": 5
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+        "rating": 4,
+        "image": {
+            "small": "assets/img/clothes/marg-dress.jpg",
+            "large": "assets/img/clothes/marg-dress.jpg"
+        }
     },
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
-    "rating": 4,
-    "image": {
-      "small": "assets/img/clothes/sony-xperia-z3.jpg",
-      "large": "assets/img/clothes/sony-xperia-z3-large.jpg"
-    }
-  },
-  {
-    "id": 2,
-    "name": "Каменских",
-    "price": 899,
-    "specs": {
-      "manufacturer": "Apple",
-      "storage": 16,
-      "os": "iOS",
-      "camera": 8
+    {
+        "id": 7,
+        "name": "Куртка",
+        "price": 700,
+        "specs": {
+            "manufacturer": "Kid",
+            "storage": 16,
+            "os": "Android",
+            "camera": 15
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+        "rating": 4,
+        "image": {
+            "small": "assets/img/clothes/yar-jacket.jpg",
+            "large": "assets/img/clothes/yar-jacket.jpg"
+        }
     },
-    "description": "Каменских lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
-    "rating": 4,
-    "image": {
-      "small": "assets/img/clothes/kamenskih.jpg",
-      "large": "assets/img/clothes/kamenskih.jpg"
-    }
-  },
-  {
-    "id": 3,
-    "name": "HTC One M8",
-    "price": 899,
-    "specs": {
-      "manufacturer": "HTC",
-      "storage": 32,
-      "os": "Android",
-      "camera": 5
+    {
+        "id": 1,
+        "name": "Акулина",
+        "price": 1000,
+        "specs": {
+            "manufacturer": "Woman",
+            "storage": 16,
+            "os": "Android",
+            "camera": 15
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+        "rating": 4,
+        "image": {
+            "small": "assets/img/clothes/aku-dress-01.jpg",
+            "large": "assets/img/clothes/aku-dress-02.jpg"
+        }
     },
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
-    "rating": 4,
-    "image": {
-      "small": "assets/img/clothes/htc-one.jpg",
-      "large": "assets/img/clothes/htc-one-large.jpg"
-    }
-  },
-  {
-    "id": 4,
-    "name": "Galaxy Alpha",
-    "price": 899,
-    "specs": {
-      "manufacturer": "Samsung",
-      "storage": 32,
-      "os": "Android",
-      "camera": 12
+    {
+        "id": 2,
+        "name": "Каменских",
+        "price": 600,
+        "specs": {
+            "manufacturer": "Woman",
+            "storage": 16,
+            "os": "iOS",
+            "camera": 8
+        },
+        "description": "Каменских lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+        "rating": 4,
+        "image": {
+            "small": "assets/img/clothes/kamenskih.jpg",
+            "large": "assets/img/clothes/kamenskih.jpg"
+        }
     },
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
-    "rating": 4,
-    "image": {
-      "small": "assets/img/clothes/galaxy-alpha.jpg",
-      "large": "assets/img/clothes/galaxy-alpha-large.jpg"
-    }
-  },
-  {
-    "id": 5,
-    "name": "Nokia Lumia",
-    "price": 450,
-    "specs": {
-      "manufacturer": "Nokia",
-      "storage": 16,
-      "os": "Windows",
-      "camera": 5
+    {
+        "id": 4,
+        "name": "Galaxy Alpha",
+        "price": 899,
+        "specs": {
+            "manufacturer": "Samsung",
+            "storage": 32,
+            "os": "Android",
+            "camera": 12
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+        "rating": 4,
+        "image": {
+            "small": "assets/img/clothes/galaxy-alpha.jpg",
+            "large": "assets/img/clothes/galaxy-alpha.jpg"
+        }
     },
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
-    "rating": 4,
-    "image": {
-      "small": "assets/img/clothes/nokia-lumia.jpg",
-      "large": "assets/img/clothes/nokia-lumia-large.jpg"
-    }
-  },
-  {
-    "id": 6,
-    "name": "Zte Nubia",
-    "price": 399,
-    "specs": {
-      "manufacturer": "ZTE",
-      "storage": 32,
-      "os": "Android",
-      "camera": 12
+    {
+        "id": 5,
+        "name": "Nokia Lumia",
+        "price": 450,
+        "specs": {
+            "manufacturer": "Nokia",
+            "storage": 16,
+            "os": "Windows",
+            "camera": 5
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+        "rating": 4,
+        "image": {
+            "small": "assets/img/clothes/nokia-lumia.jpg",
+            "large": "assets/img/clothes/nokia-lumia.jpg"
+        }
     },
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
-    "rating": 4,
-    "image": {
-      "small": "assets/img/clothes/zte-nubia.jpg",
-      "large": "assets/img/clothes/zte-nubia-large.jpg"
-    }
-  },
-  {
-    "id": 7,
-    "name": "Samsung Galaxy S5",
-    "price": 399,
-    "specs": {
-      "manufacturer": "Samsung",
-      "storage": 16,
-      "os": "Android",
-      "camera": 15
+    {
+        "id": 6,
+        "name": "Zte Nubia",
+        "price": 399,
+        "specs": {
+            "manufacturer": "ZTE",
+            "storage": 32,
+            "os": "Android",
+            "camera": 12
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+        "rating": 4,
+        "image": {
+            "small": "assets/img/clothes/zte-nubia.jpg",
+            "large": "assets/img/clothes/zte-nubia.jpg"
+        }
     },
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
-    "rating": 4,
-    "image": {
-      "small": "assets/img/clothes/galaxy-s5.jpg",
-      "large": "assets/img/clothes/galaxy-s5-large.jpg"
+    {
+        "id": 8,
+        "name": "Iphone 5S",
+        "price": 399,
+        "specs": {
+            "manufacturer": "Sony",
+            "storage": 16,
+            "os": "iOS",
+            "camera": 8
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+        "rating": 4,
+        "image": {
+            "small": "assets/img/clothes/iphone5s.jpg",
+            "large": "assets/img/clothes/iphone5s.jpg"
+        }
     }
-  },
-  {
-    "id": 8,
-    "name": "Iphone 5S",
-    "price": 399,
-    "specs": {
-      "manufacturer": "Apple",
-      "storage": 16,
-      "os": "iOS",
-      "camera": 8
-    },
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
-    "rating": 4,
-    "image": {
-      "small": "assets/img/clothes/iphone5s.jpg",
-      "large": "assets/img/clothes/iphone5s-large.jpg"
-    }
-  }
 ]
