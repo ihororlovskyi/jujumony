@@ -69,7 +69,7 @@
     },
     {
         "id": 4,
-        "name": "Galaxy Alpha",
+        "name": "Boy",
         "price": 899,
         "specs": {
             "manufacturer": "Samsung",
@@ -80,13 +80,13 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
         "rating": 4,
         "image": {
-            "small": "assets/img/clothes/galaxy-alpha.jpg",
-            "large": "assets/img/clothes/galaxy-alpha.jpg"
+            "small": "assets/img/clothes/boy-01.jpg",
+            "large": "assets/img/clothes/boy-02.jpg"
         }
     },
     {
         "id": 5,
-        "name": "Nokia Lumia",
+        "name": "Kira",
         "price": 450,
         "specs": {
             "manufacturer": "Nokia",
@@ -97,8 +97,8 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
         "rating": 4,
         "image": {
-            "small": "assets/img/clothes/nokia-lumia.jpg",
-            "large": "assets/img/clothes/nokia-lumia.jpg"
+            "small": "assets/img/clothes/kira-dress.jpg",
+            "large": "assets/img/clothes/kira-dress.jpg"
         }
     },
     {
