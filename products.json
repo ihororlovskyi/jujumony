@@ -34,6 +34,40 @@
         }
     },
     {
+        "id": 5,
+        "name": "Kira",
+        "price": 450,
+        "specs": {
+            "manufacturer": "Kid",
+            "storage": 16,
+            "os": "Windows",
+            "camera": 5
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+        "rating": 4,
+        "image": {
+            "small": "assets/img/clothes/kira-dress.jpg",
+            "large": "assets/img/clothes/kira-dress.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Boy",
+        "price": 900,
+        "specs": {
+            "manufacturer": "Kid",
+            "storage": 32,
+            "os": "Android",
+            "camera": 12
+        },
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+        "rating": 4,
+        "image": {
+            "small": "assets/img/clothes/boy-01.jpg",
+            "large": "assets/img/clothes/boy-02.jpg"
+        }
+    },
+     {
         "id": 1,
         "name": "Акулина",
         "price": 1000,
@@ -50,7 +84,7 @@
             "large": "assets/img/clothes/aku-dress-02.jpg"
         }
     },
-    {
+   {
         "id": 2,
         "name": "Каменских",
         "price": 600,
@@ -65,74 +99,6 @@
         "image": {
             "small": "assets/img/clothes/kamenskih.jpg",
             "large": "assets/img/clothes/kamenskih.jpg"
-        }
-    },
-    {
-        "id": 4,
-        "name": "Boy",
-        "price": 899,
-        "specs": {
-            "manufacturer": "Samsung",
-            "storage": 32,
-            "os": "Android",
-            "camera": 12
-        },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
-        "rating": 4,
-        "image": {
-            "small": "assets/img/clothes/boy-01.jpg",
-            "large": "assets/img/clothes/boy-02.jpg"
-        }
-    },
-    {
-        "id": 5,
-        "name": "Kira",
-        "price": 450,
-        "specs": {
-            "manufacturer": "Nokia",
-            "storage": 16,
-            "os": "Windows",
-            "camera": 5
-        },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
-        "rating": 4,
-        "image": {
-            "small": "assets/img/clothes/kira-dress.jpg",
-            "large": "assets/img/clothes/kira-dress.jpg"
-        }
-    },
-    {
-        "id": 6,
-        "name": "Zte Nubia",
-        "price": 399,
-        "specs": {
-            "manufacturer": "ZTE",
-            "storage": 32,
-            "os": "Android",
-            "camera": 12
-        },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
-        "rating": 4,
-        "image": {
-            "small": "assets/img/clothes/zte-nubia.jpg",
-            "large": "assets/img/clothes/zte-nubia.jpg"
-        }
-    },
-    {
-        "id": 8,
-        "name": "Iphone 5S",
-        "price": 399,
-        "specs": {
-            "manufacturer": "Sony",
-            "storage": 16,
-            "os": "iOS",
-            "camera": 8
-        },
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
-        "rating": 4,
-        "image": {
-            "small": "assets/img/clothes/iphone5s.jpg",
-            "large": "assets/img/clothes/iphone5s.jpg"
         }
     }
 ]

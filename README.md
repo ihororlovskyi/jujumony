@@ -1,6 +1,6 @@
 # jujumony.github.io
 
-_Web development of Jujumony Clothing portfolio site_
+_Web development of Jujumony Clothing site_
 
 ### Used
 
